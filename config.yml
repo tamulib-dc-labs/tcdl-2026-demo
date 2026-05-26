@@ -13,7 +13,7 @@ site:
 
   # DaisyUI theme (see https://daisyui.com/docs/themes/)
   # Options: light, dark, cupcake, synthwave, cyberpunk, valentine, etc.
-  theme: "synthwave"
+  theme: "cyberpunk"
 
 # Build configuration (optional)
 # build:
